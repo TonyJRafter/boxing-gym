@@ -39,6 +39,7 @@ body {
         letter-spacing: 3px;
         float: right;
         padding-right: 20px;
+        font-weight: bold;
  }
 
  #menu, #logo {
@@ -60,8 +61,7 @@ body {
 
 #menu a:hover {
     border-bottom: 4px solid red;
-    zoom: 115%;
-    font-weight: bold;
+    zoom: 135%;
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
@@ -115,4 +115,26 @@ bottom: 100px;
 right: 150px;
 
 position: absolute;
+}
+
+#gym-ethos {
+    height: 600px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: silver;
+}
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
 }
