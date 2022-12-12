@@ -19,13 +19,14 @@ body {
 
  #logo {
     float: left;
+    padding-left: 20px;
     font-size: 280%;
  }
 
  #logo:hover {
     color: red;
-    transform: scale(.9);
-    letter-spacing: 1px;
+    transform: scale(1.1);
+    letter-spacing: 4px;
     font-weight: bold;
 
  }
@@ -61,4 +62,29 @@ body {
 }
 .active {
     border-bottom: 1px solid #3a3a3a;
+}
+/* hero image*/
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden; 
+}
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero.jpg) no-repeat center center; 
+    /* animates zoom on lading page*/
+    animation: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+/*creates zoom for hero image*/
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);    
+    }
+    to{
+        transform: scale(1.1);
+
+    }
 }
