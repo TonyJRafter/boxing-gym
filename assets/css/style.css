@@ -21,5 +21,44 @@ body {
     float: left;
     font-size: 280%;
  }
+
+ #logo:hover {
+    color: red;
+    transform: scale(.9);
+    letter-spacing: 1px;
+    font-weight: bold;
+
+ }
+
+ /* naviagtion links*/
+
  #menu {
-    float: right;}
+        font-size: 110%;
+        letter-spacing: 3px;
+        float: right;
+ }
+
+ #menu, #logo {
+    line-height: 75px;
+
+  }
+
+ #menu li {
+        float: left;
+        list-style-type: none;
+        margin-right: 20px;
+
+    }
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 4px solid red;
+    zoom: 115%;
+    font-weight: bold;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
