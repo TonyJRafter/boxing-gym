@@ -60,7 +60,8 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 4px solid red;
+    color: red;
+    border-bottom: 4px solid black;
     zoom: 135%;
 }
 .active {
@@ -149,6 +150,7 @@ hr {
     clear:both;
     margin-bottom: 50px;
 }
+
 .right-about-heading {
     width: 60%;
     float: left;
@@ -169,7 +171,12 @@ hr {
     margin: 25px;
     font-size: 280%;
 }
-
+#welcome:hover {
+    color: red;
+    text-align: center;
+    margin: 25px;
+    font-size: 250%;
+}
 #circle-container {
     width: 300px;
     height: 300px;
@@ -183,6 +190,29 @@ hr {
 #circle-cover-bg {
     background: url(../images/ethos-center-pic.jpg) no-repeat center center;
     height: 100%;
-    border-radius: 50%;
-    
+    border-radius: 50%;    
+}
+/*Prices of membership*/
+#pricing {
+    background: url(../images/pricing-pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+#pricing h2,h3 {
+    color: #fafafa;
+    text-align: center;
+}
+
+#pricing div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .4);
+    width: 20%;
+    height: 300px;
+    float: left ;
+    padding: 80px 0 0 10px;
+    border: 2px solid white;
+    box-sizing: border-box;
 }
