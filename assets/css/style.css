@@ -9,7 +9,7 @@ body {
     font-weight: 300;
     color: #3a3a3a;
 }
- /* headigns and logo*/
+ /* headings and logo*/
  h1, h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -98,7 +98,8 @@ body {
     }
 }
 
-#cover-text {font-size: 120%;
+#cover-text {
+font-size: 120%;
 font-family: Oswald, sans-serif;
 text-transform: uppercase;
 letter-spacing: 2px;
@@ -116,6 +117,10 @@ bottom: 100px;
 right: 150px;
 
 position: absolute;
+}
+
+#cover-text:hover {
+    zoom: 105%;
 }
 
 #gym-ethos {
@@ -175,15 +180,15 @@ hr {
     color: red;
     text-align: center;
     margin: 25px;
-    font-size: 250%;
+    font-size: 300%;
 }
 #circle-container {
     width: 300px;
     height: 300px;
-    padding: 30px;
+    padding: 15px;
     border-style: solid;
     border-color: #ccc;
-    border-width: 1px;
+    border-width: 2px;
     border-radius: 50%;
     margin: 0 auto;
 }
@@ -191,6 +196,9 @@ hr {
     background: url(../images/ethos-center-pic.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;    
+}
+#circle-cover-bg:hover {
+    zoom: 105%;
 }
 /*Prices of membership*/
 #pricing {
@@ -211,8 +219,8 @@ hr {
     background-color: rgba(0, 0, 0, .4);
     width: 20%;
     height: 300px;
-    float: left ;
+    float: left;
     padding: 80px 0 0 10px;
-    border: 2px solid white;
+    border: 2.5px solid white;
     box-sizing: border-box;
 }
