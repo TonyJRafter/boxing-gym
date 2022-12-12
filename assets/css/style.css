@@ -71,6 +71,10 @@ body {
     height: 600px;
     width: 100%;
     overflow: hidden; 
+    position: relative;
+}
+#cover-text, #cover-text h2 {
+    color: #fff;
 }
 #hero-image {
     height: 600px;
@@ -91,4 +95,24 @@ body {
         transform: scale(1.1);
 
     }
+}
+
+#cover-text {font-size: 120%;
+font-family: Oswald, sans-serif;
+text-transform: uppercase;
+letter-spacing: 2px;
+text-align: center;
+
+width: 390px;
+height: 40px;
+
+padding-top: 0px;
+padding-left: 0px;
+
+background-color: rgb(241, 109, 107, .3);
+
+bottom: 100px;
+right: 150px;
+
+position: absolute;
 }
