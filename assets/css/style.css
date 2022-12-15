@@ -318,7 +318,7 @@ footer {
         display: none;
     }
 }
-for medium screen sizes from 950px wide and down
+/* for medium screen sizes from 950px wide and down */
 @media screen (max-width: 950px;) {
     #menu {
         clear: left;
