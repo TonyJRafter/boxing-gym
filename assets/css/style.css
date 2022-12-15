@@ -238,3 +238,38 @@ hr {
     border: 2.5px solid white;
     box-sizing: border-box;
 }
+/* footer */
+
+footer {
+    height: 150px;
+
+}
+.social-networks {
+    text-align: center;
+}
+.social-networks > li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+.fa-facebook-square:hover {
+    color: red;
+    zoom: 150%;
+}
+.fa-instagram:hover {
+    color: red;
+    zoom: 150%;
+}
+.fa-twitter-square:hover {
+    color: red;
+    zoom: 150%;
+}
+.fa-youtube-square:hover {
+    color: red;
+    zoom: 150%;
+}
