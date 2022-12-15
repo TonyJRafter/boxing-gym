@@ -273,3 +273,11 @@ footer {
     color: red;
     zoom: 150%;
 }
+
+/* gallery*/
+
+#photos {
+    clear:both;
+    line-height: 0;
+    column-count: 2;
+}
