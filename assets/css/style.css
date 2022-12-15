@@ -208,6 +208,20 @@ hr {
     background-position: center;
     width: 100%;
     overflow: hidden;
+ /* animates zoom on lading page*/
+ animation: pricing-zoom;
+ animation-duration: 5s;
+ animation-fill-mode: forwards;
+}
+/*creates zoom for pricing image*/
+@keyframes pricing-zoom {
+ from{
+     transform: scale(1);    
+ }
+ to{
+     transform: scale(1.02);
+
+ }
 }
 #pricing h2,h3 {
     color: #fafafa;
