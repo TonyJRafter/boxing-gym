@@ -44,7 +44,7 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
 # Features
 
-[Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/)contains many features that the user would be familiar with, such as a navigation bar, footer with social links.
+[Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/) contains many features that the user would be familiar with, such as a navigation bar, footer with social links.
 
 ## Existing Features
 
