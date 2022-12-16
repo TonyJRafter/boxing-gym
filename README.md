@@ -1,5 +1,5 @@
 # Raw Boxing Gym
-## _A website for members to join the Gym._
+## _A website for members to join the Raw Boxing Gym._
 
 ![Homepage screenshot](/assets/images/readme-images/readme1.JPG "Homepage")
 
@@ -12,18 +12,15 @@
             * [Header](<#header>)
             * [Footer](<#footer>)
         * [**Home page**](<#home-page>)
-            * [Blocks](<#blocks>)
-        * [**Camera page**](<#camera-page>)
-        * [**Request page**](<#request-page>)
-        * [**Submit page**](<#submit-page>)
+        * [**Gallery page**](<#gallery-page>)
+        * [**Join page**](<#join-page>)
+        * [**Done page**](<#done-page>)
     * [**Future Features**](<#future-features>)
-* [**Technologies Used**](<#technologies-used>)
+* [**Tech Used**](<#tech-used>)
 * [**Testing**](<#testing>)
-* [**Deployment**](<#deployment>)
 * [**Credits**](<#credits>)
     * [**Content**](<#content>)
     * [**Media**](<#media>)
-*  [**Acknowledgements**](<#acknowledgements>)
 
 # Theme
 The Theme of the Website was to keep it Minimalistic and plain.
