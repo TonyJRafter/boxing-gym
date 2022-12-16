@@ -135,7 +135,7 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 [Back to top](<#contents>)
 
 # Testing
-## HTML validation
+## [HTML Validation] https://validator.w3.org/
 * Home
 ![Home page Validated image](/assets/images/readme-images/test1.JPG)
 
@@ -143,9 +143,16 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 ![Gallery page Validated image](/assets/images/readme-images/test2.JPG)
 
 * Join
-![Join page Validated image](/assets/images/readme-images/test2.JPG)
+![Join page Validated image](/assets/images/readme-images/test3.JPG)
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Photo Shoot Fans.
+* Done
+![Done page Validated image](/assets/images/readme-images/test4.JPG)
+
+## [CSS Validation] https://jigsaw.w3.org/css-validator/
+* CSS
+![CSS page Validated image](/assets/images/readme-images/test5.JPG)
+
+
 
 [Back to top](<#contents>)
 

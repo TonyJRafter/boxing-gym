@@ -146,7 +146,7 @@ position: absolute;
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px ,0;
+    margin: 5px 0;
 }
 .left-about-heading {
     width: 60%;
@@ -281,7 +281,6 @@ footer {
     padding: 200px;
     border: 2px;
     border-color: red;
-    text-size-adjust: .58;
 }
  
 /* gallery */
@@ -365,7 +364,7 @@ footer {
         margin: 0;
     }
     #left-about, #right-about {
-        width: 100;
+        width: 100%;
         float: left;
         padding: 0;
     }
@@ -390,7 +389,7 @@ footer {
 }
 
 /* for medium screen sizes from 950px wide and down */
-@media screen (max-width: 950px;) {
+@media screen and (max-width: 950px) {
     #menu {
         clear: left;
         float: left;
@@ -403,9 +402,7 @@ footer {
     left: 0;
     }
 
-    
-
-    #club-ethos {
+    #gym-ethos {
     width: 90%;
     height: 1200px;
     margin: 0 auto;
@@ -426,4 +423,5 @@ footer {
     }
     #photos {
     column-count: 2;
+    }
 }
