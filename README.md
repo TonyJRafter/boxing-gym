@@ -134,7 +134,7 @@ The [home](index.html) page is the main page.
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
 * [Gitpod](https://gitpod.io/) - Gitpod is an open-source developer platform for development.
 * [Github](https://github.com/) - used for git version control and to host the website.
-* [Font Awesome](https://fontawesome.com/) - Website for free icons to use on websote.
+* [Font Awesome](https://fontawesome.com/) - Website for free icons to use.
 
 [Back to top](<#contents>)
 
@@ -156,40 +156,6 @@ The [home](index.html) page is the main page.
 * CSS
 ![CSS page Validated image](/assets/images/readme-images/test5.JPG)
 
-
-
-[Back to top](<#contents>)
-
-# Deployment
-
-### **To deploy the project**
-The site was deployed to GitHub pages. The steps to deploy a site are as follows:
-  1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **main**, then click **save**.
-  4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-
-![GitHub pages deployed image](assets/images/readme-images/deployment.png)
-
-  The live link to the Github repository can be found [here](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans).
-
-### **To fork the repository on GitHub**
-A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
-1. Log in to **GitHub** and locate the [repository](https://github.com/Sergii-Kostanets/codeinstitute-photo-shoot-fans).
-2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
-![GitHub forking process image](assets/images/readme-images/forking.png)
-
-### **To create a local clone of this project**
-The method from cloning a project from GitHub is below:
-
-1. Under the repository’s name, click on the **code** tab.
-2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
-![Cloning image](assets/images/readme-images/clone.png)
-3. In your IDE of choice, open **Git Bash**.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type **git clone**, and then paste the URL copied from GitHub.
-6. Press **enter** and the local clone will be created.
-
 [Back to top](<#contents>)
 
 # Credits
@@ -200,8 +166,6 @@ The method from cloning a project from GitHub is below:
 * Fonts [Oswald](https://fonts.google.com/specimen/Oswald) [Lato](https://fonts.google.com/specimen/Lato?query=lato)
 
 * Hero image [Pexels](https://www.pexels.com/photo/an-empty-boxing-ring-8612028/)
-
-* Icons[Font Awesome](https://www.fontawesome.com/)
 
 * Form [love-running](https://github.com/Code-Institute-Org/love-running-2.0) 
 
