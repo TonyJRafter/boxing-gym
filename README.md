@@ -129,7 +129,7 @@ The [home](index.html) page is the main page.
 
 [Back to top](<#contents>)
 
-# Technologies Used
+# Tech Used
 * [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
 * [Gitpod](https://gitpod.io/) - Gitpod is an open-source developer platform for development.
