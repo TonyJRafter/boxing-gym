@@ -34,9 +34,9 @@
 [Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/) website has four pages:
 
  * [Home](index.html)
- * [gallery](gallery.html)
- * [join](join.html)
- * [done](done.html)
+ * [Gallery](gallery.html)
+ * [Join](join.html)
+ * [Done](done.html)
 
 The [home](index.html) page is the default loading page, [gallery](gallery.html) and [join](join.html) pages are all accessible primarily from the navigation menu. The [done](done.html) page appears only after form at [join](join.html) page is submit. There are another links to the [join](join.html) page and [gallery](gallery.html) page in the [home](index.html) page and [gallery](gallery.html) page to inspire the user for the next step.
 
@@ -63,7 +63,7 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
   * #### Footer
 
     * minimalistic to not distract the user.
-    * Contains social media links with clickable icons, The links open in other tabs.
+    * Contains social media links with clickable icons, The links open in other tabs and changed colour and sized when hovered over.
 
 
 ![Footer image](/assets/images/readme-images/readme3.JPG)
@@ -84,9 +84,9 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
 * ### Gallery page
 
-    * The Gallery page just has a few boxing photos, mostly of mohammad ali.
-    * These photos are known for being iconic.
-    * The layout is neat and clean which is aestetically pleasing.
+    * The Gallery page just has a few boxing photos, mostly of Mohammad ali.
+    * These photos are known for being iconic and taken by Neil Leifer.
+    * The layout is neat and clean, which is aestetically pleasing.
 
 ![Gallery page image](/assets/images/readme-images/readme4.JPG)
 
@@ -97,24 +97,24 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
     * This page is a form for the user to fill out if they would like to join the gym and train.
     * Form has 3 input fields: first name, last name, email.
 
-![Request page image](/assets/images/readme-images/readme5.JPG)
+![Join page image](/assets/images/readme-images/readme5.JPG)
 
 [Back to top](<#contents>)
 
-* ### Submit page
+* ### Done page
 
-    * The page confirms the submission of data.
-    * The page has a general site structure and allows the user to quickly return to viewing previous pages.
+    * This page lets the user know that they have submitted the information.
+    * This page contains the message "Thank you for signing up. We will be in touch soon.
 
-![Submit page image](assets/images/readme-images/submit.png)
+![Done page image](/assets/images/readme-images/readme5.JPG)
 
 [Back to top](<#contents>)
 
 ## Future Features
 
-* Make the submit form work properly by emailing the owner.
-    * Add a page with a message about successful submission.
-    * Connect and set up a database to automatically save each request.
+* Add videos
+    * Add Videos to the gallery page.
+    * Replace the hero image with a video walkthrough.
     * Create a page to view and filter data from the database.
 * Add more cameras to camera page.
     * Create a slider with sample shots for this camera.
