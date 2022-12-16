@@ -191,11 +191,12 @@ The method from cloning a project from GitHub is below:
 # Credits
 ### Content
 
-* Font selected on [Font in Use](https://fontsinuse.com/typefaces/203938/mariupol)
-* The font came from [Rent a Font](https://rentafont.com/fonts/mariupol?sample_text=Mariupol%2520font%2520test).
-* The map is embedded from [Google Maps](https://www.google.com/maps).
-* The icons came from [Flat Icon](https://www.flaticon.com/).
-    * Author: [Freepik](https://www.flaticon.com/authors/freepik).
+* Inspiration and layout [love-running](https://github.com/Code-Institute-Org/love-running-2.0)
+* Fonts [Oswald](https://fonts.google.com/specimen/Oswald) [Lato](https://fonts.google.com/specimen/Lato?query=lato)
+* Hero image [Pexels](https://www.pexels.com/photo/an-empty-boxing-ring-8612028/).
+* Gym Ethos Female Boxer picture [Pexels](https://www.pexels.com/photo/woman-wearing-red-boxing-gloves-sweating-on-the-gym-7261727/).
+* Icons[Font Awesome](https://www.fontawesome.com/).
+* Pricing Image: [Pexels](https://www.pexels.com/photo/silhouette-of-person-in-boxing-gym-8736743/).
 * The form base structure and performance check came from a [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=first).
 * As an example of a readme file was taken file of author [Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods#readme)
 
