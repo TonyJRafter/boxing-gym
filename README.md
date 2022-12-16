@@ -44,7 +44,7 @@ The Logo also changes colour and gets larger with hover as do the social links i
 The [home](index.html) page is the main page.
 [gallery](gallery.html) and [join](join.html) pages are on the nav menu. The [done](done.html) page appears only after the user applied to [join](join.html) the gym and they submit their information.
 
-[Back to top](<#contents>)
+[Back to top](<#Raw Boxing Gym>)
 
 # Features
 
@@ -62,7 +62,7 @@ The [home](index.html) page is the main page.
 
 ![Navigation bar image](/assets/images/readme-images/readme2.JPG)
 
-[Back to top](<#contents>)
+[Back to top](<#Raw Boxing Gym>)
 
   * #### Footer
 
@@ -84,7 +84,7 @@ The [home](index.html) page is the main page.
 
 ![Blocks image](/assets/images/readme-images/readme1.JPG)
 
-[Back to top](<#contents>)
+[Back to top](<#Raw Boxing Gym>)
 
 * ### Gallery page
 
