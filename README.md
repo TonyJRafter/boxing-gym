@@ -114,20 +114,23 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
 * Add videos
     * Add Videos to the gallery page.
-    * Replace the hero image with a video walkthrough.
-    * Create a page to view and filter data from the database.
-* Add more cameras to camera page.
-    * Create a slider with sample shots for this camera.
-    * Introduce swipe actions for use on mobile devices for this slider.
+    * Replace the hero image with a silent video Gym walkthrough tour.
+
+* Add google maps
+    * Add google maps with the location of the gym and directions.
+    
+* Add user login area
+    * Allow members to log in to pay for their memberships online.
+    
 
 [Back to top](<#contents>)
 
 # Technologies Used
 * [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
 * [CSS3](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
-* [Visual Studio Code](https://code.visualstudio.com/) - IDE used to develop the website.
-* [Github](https://github.com/) - used for versin control, to deploy and host the website.
-* [I Love IMG](https://www.iloveimg.com/) - online photo editor to crop and resize photos.
+* [Gitpod](https://gitpod.io/) - Gitpod is an open-source developer platform for development.
+* [Github](https://github.com/) - used for git version control and to host the website.
+* [Font Awesome](https://fontawesome.com/) - Website for free icons to use on websote.
 
 [Back to top](<#contents>)
 
