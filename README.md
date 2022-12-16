@@ -135,6 +135,10 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 [Back to top](<#contents>)
 
 # Testing
+## HTML validation
+* Home
+![Home page Validated image](/assets/images/readme-images/test1.JPG)
+
 
 Please refer to [**_here_**](TESTING.md) for more information on testing Photo Shoot Fans.
 
