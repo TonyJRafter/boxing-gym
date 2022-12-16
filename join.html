@@ -24,22 +24,31 @@
                 <a href="index.html">Home</a>
             </li>
             <li>
-                <a href="gallery.html" class="active">Gallery</a>
+                <a href="gallery.html">Gallery</a>
             </li>
             <li>
-                <a href="join.html">Join us</a>
+                <a href="join.html" class="active">Join us</a>
             </li>
         </ul>
 
-        <section id="photos">
-
-            <img src="/assets/images/boxing4.jpeg" alt="Boxing Photo">
-            <img src="assets/images/boxing6.jpeg" alt="Boxing Photo">
-            <img src="assets/images/boxing2.jpeg" alt="Boxing Photo">
-            <img src="assets/images/boxing5.jpeg" alt="Boxing Photo">
+        <section class="form-section">
             
+            
+            <form method="get" class="signup-form" action="done.html">
+                <h2><i class="fas fa-dumbbell"></i> Come Train With  us Now!</h2>
+                <label for="fname">First Name:</label>
+                <input class="text-input" id="fname" name="first_name" type="text" required>
+                
+                <label for="lname">Last Name:</label>
+                <input class="text-input" id="lname" name="last_name" type="text" required>
+                
+                <label for="email">Email Address:</label>
+                <input class="text-input" type="email" id="email" name="email_address" required>
+                
+                <input class="join-button" type="submit" value="Let's Train Together">
+            </form>
         </section>
-        
+
     <footer>
         <Ul class="social-networks">
             <li>
@@ -59,8 +68,7 @@
                 aria-label="Visit our youtube page (opens in a new tab)"> <i class="fab fa-youtube-square"></i></i></a>
                 
             </li>
-        </Ul>
-        
+        </Ul>    
     </footer>
 <!--Font awesome script-->
     <script src="https://kit.fontawesome.com/84016f41d4.js" crossorigin="anonymous"></script>
