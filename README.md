@@ -4,9 +4,8 @@
 ![Homepage screenshot](/assets/images/readme-images/readme1.JPG "Homepage")
 
 # Contents
-
-* [**User Experience UX**](<#user-experience-ux>)
-    * [Site Structure](<#site-structure>)
+* [**Theme**](<#theme>)
+* [**Site Structure**](<#site-structure>)
 * [**Features**](<#features>)
     * [**Existing Features**](<#existing-features>)
         * [**All pages**](<#all-pages>)
@@ -26,10 +25,17 @@
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
+# Theme
+The Theme of the Website was to keep it Minimalistic and plain.
+The plan was to keep the site majority black and white and Using the colour red.
+Using the colour red in this way is a contrast to the shades of black and white.
+The red really grabs the users attention.
+Also I planned to use alot of visual cues and hovers to keep the user engaged.
+For example the 3 images all have some sort of motion to them. 
+Where as the nav bar changes colour, get larger, and underlines when hovering.
+The Logo also changes colour and gets larger with hover as do the social links in the footer.
 
-# User Experience (UX)
-
-## Site Structure
+# Site Structure
 
 [Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/) website has four pages:
 
@@ -38,13 +44,14 @@
  * [Join](join.html)
  * [Done](done.html)
 
-The [home](index.html) page is the default loading page, [gallery](gallery.html) and [join](join.html) pages are all accessible primarily from the navigation menu. The [done](done.html) page appears only after form at [join](join.html) page is submit. There are another links to the [join](join.html) page and [gallery](gallery.html) page in the [home](index.html) page and [gallery](gallery.html) page to inspire the user for the next step.
+The [home](index.html) page is the main page.
+[gallery](gallery.html) and [join](join.html) pages are on the nav menu. The [done](done.html) page appears only after the user applied to [join](join.html) the gym and they submit their information.
 
 [Back to top](<#contents>)
 
 # Features
 
-[Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/) contains many features that the user would be familiar with, such as a navigation bar, footer with social links.
+[Raw Boxing Gym](https://tonyjrafter.github.io/boxing-gym/) contains hero image, a form to join the gym, a navigation bar, footer with social links.
 
 ## Existing Features
 
@@ -192,25 +199,22 @@ The method from cloning a project from GitHub is below:
 ### Content
 
 * Inspiration and layout [love-running](https://github.com/Code-Institute-Org/love-running-2.0)
+
 * Fonts [Oswald](https://fonts.google.com/specimen/Oswald) [Lato](https://fonts.google.com/specimen/Lato?query=lato)
-* Hero image [Pexels](https://www.pexels.com/photo/an-empty-boxing-ring-8612028/).
-* Gym Ethos Female Boxer picture [Pexels](https://www.pexels.com/photo/woman-wearing-red-boxing-gloves-sweating-on-the-gym-7261727/).
-* Icons[Font Awesome](https://www.fontawesome.com/).
-* Pricing Image: [Pexels](https://www.pexels.com/photo/silhouette-of-person-in-boxing-gym-8736743/).
-* The form base structure and performance check came from a [Love Running Walkthrough Project](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=first).
-* As an example of a readme file was taken file of author [Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods#readme)
+
+* Hero image [Pexels](https://www.pexels.com/photo/an-empty-boxing-ring-8612028/)
+
+* Icons[Font Awesome](https://www.fontawesome.com/)
+
+* Form [love-running](https://github.com/Code-Institute-Org/love-running-2.0) 
+
+* readme file [Ewan Colquhoun](https://github.com/EwanColquhoun/wawaswoods#readme)
 
 ### Media
-* The photos all came from the developer of this website, [Sergii Kostanets](https://www.linkedin.com/in/sergiikostanets/).
-* The photos were compressed using [I Love IMG](https://www.iloveimg.com/).
+* Gallery images [sports illustrated](https://www.si.com/boxing/2014/03/26/neil-leifers-iconic-boxing-photos#gid=ci02558ead5008279d&pid=neil-leifer-and-muhammad-ali)
 
-[Back to top](<#contents>)
+* Pricing Image: [Pexels](https://www.pexels.com/photo/silhouette-of-person-in-boxing-gym-8736743/)
 
-# Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support.
-
-This is a very personal project for me. In a past life, before the war in Ukraine, I was a photographer and collector of rare film cameras. Now, when everything is destroyed, all I have left are these photos and a dream to create a community of film photography lovers. And let this website be the basis for that.
-
-[Sergii Kostanets](https://sergiikostanets.netlify.app/), November 2022.
+* Gym Ethos Female Boxer image [Pexels](https://www.pexels.com/photo/woman-wearing-red-boxing-gloves-sweating-on-the-gym-7261727/)
 
 [Back to top](<#contents>)
