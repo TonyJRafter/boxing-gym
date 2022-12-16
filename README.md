@@ -54,7 +54,7 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
     * The logo text is clickable with a link back to the home page.
     * The Logo Changes colour and gets larger when hovered to catch users attention.
-    * The Navigation menu links change size and have an underline when hovered over.
+    * The Navigation menu links change size, colour and have an underline when hovered over.
 
 ![Navigation bar image](/assets/images/readme-images/readme2.JPG)
 
@@ -72,32 +72,32 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
 * ### Home page
 
-  * #### Blocks
+  * #### Hero Image
 
-      * Located on the home page beneath the title section. The main content blocks are designed to be hidden when a service is suspended, or easily added when services are added. Each block ends with a button to encourage the visitor to go to the page for filling out a form or choosing a camera.
-      * Each block is responsive and restructures when the display is scaled down. Keeping the general idea of encouraging the visitor to explore the site further.
+      * Main Hero image of a boxing ring simple and straight to the point.
+      * A slogan of "Be the best you can be" to keep the user engaged.
+      * A slight zoom in on the hero image which also keeps the user engaged.
 
-![Blocks image](assets/images/readme-images/blocks.png)
-
-[Back to top](<#contents>)
-
-* ### Camera page
-
-    * The camera page give the user a choice of equipment for shooting.
-    * Blocks with the choice of equipment contain the name and photo of the camera itself, as well as the name of the lens and examples of photos taken on this camera with this lens.
-    * Blocks are easily duplicated, allowing you to quickly add new cameras to the range.
-    * Each block ends with a button to go to the form fill page to inspire the user to continue the journey.
-
-![Camera page image](assets/images/readme-images/camera.png)
+![Blocks image](/assets/images/readme-images/readme1.JPG)
 
 [Back to top](<#contents>)
 
-* ### Request page
+* ### Gallery page
 
-    * This section should complete the online journey for the user. It has request form for every type of client.
-    * Form has 5 input fields: first name, last name, email, message and type of client.
+    * The Gallery page just has a few boxing photos, mostly of mohammad ali.
+    * These photos are known for being iconic.
+    * The layout is neat and clean which is aestetically pleasing.
 
-![Request page image](assets/images/readme-images/request.png)
+![Gallery page image](/assets/images/readme-images/readme4.JPG)
+
+[Back to top](<#contents>)
+
+* ### Join page
+
+    * This page is a form for the user to fill out if they would like to join the gym and train.
+    * Form has 3 input fields: first name, last name, email.
+
+![Request page image](/assets/images/readme-images/readme5.JPG)
 
 [Back to top](<#contents>)
 
