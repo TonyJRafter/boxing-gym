@@ -106,7 +106,7 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
     * This page lets the user know that they have submitted the information.
     * This page contains the message "Thank you for signing up. We will be in touch soon.
 
-![Done page image](/assets/images/readme-images/readme5.JPG)
+![Done page image](/assets/images/readme-images/readme6.JPG)
 
 [Back to top](<#contents>)
 
