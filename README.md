@@ -3,10 +3,6 @@
 
 ![Homepage screenshot](/assets/images/readme-images/readme1.JPG "Homepage")
 
-Welcome to [Photo Shoot Fans](https://sergii-kostanets.github.io/codeinstitute-photo-shoot-fans) on GitHub Pages.
-
-![Photo Shoot Fans responsive design](assets/images/readme-images/responsive-main-page.png)
-
 # Contents
 
 * [**User Experience UX**](<#user-experience-ux>)
@@ -56,9 +52,9 @@ The [home](index.html) page is the default loading page, [gallery](gallery.html)
 
   * #### Header
 
-    * The logo icon is clickable with a link back to the home page for enhanced UX.
-    * The logo text isn't clickable to make it easier to copy the site name and share it.
-    * Sited at the top of all the pages in the site, navigation menu is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
+    * The logo text is clickable with a link back to the home page.
+    * The Logo Changes colour and gets larger when hovered to catch users attention.
+    * The Navigation menu links change size and have an underline when hovered over.
 
 ![Navigation bar image](/assets/images/readme-images/readme2.JPG)
 
